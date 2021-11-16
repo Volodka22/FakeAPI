@@ -64,7 +64,7 @@ class MainActivity : AppCompatActivity() {
                     }
                     showCode(resp.code())
                 } catch (e: Exception) {
-                    Snackbar.make(binding.root, R.string.trouble_network, Snackbar.LENGTH_SHORT)
+                    Snackbar.make(binding.root, R.string.trouble_network, Snackbar.LENGTH_LONG)
                         .show()
                 }
             }
