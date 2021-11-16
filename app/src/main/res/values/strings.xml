@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FakeAPI</string>
+    <string name="del">DEL</string>
+    <string name="restart">restart</string>
+    <string name="trouble_network">Trouble with network</string>
+    <string name="plus">+</string>
+    <string name="create">create</string>
+    <string name="cancel">cancel</string>
+    <string name="title">title</string>
+    <string name="body">body</string>
+    <string name="fill_all_field">fill all field</string>
+</resources>
